@@ -13,13 +13,6 @@ I'm drawn to the intersection of computer vision and healthcare: models that don
 
 ---
 
-### 📊 GitHub Stats
-
-![Ananaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=positivefunctionIN&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=positivefunctionIN&layout=compact&theme=radical)
-
----
-
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
@@ -56,17 +49,6 @@ My first deep learning project — lightweight CNN classification on the PlantVi
 - Contributing to open-source ML/imaging projects (DeepModeling, OpenMMLab family)
 - Preparing for GSoC 2027 / OSPP
 - Exploring interpretability methods for medical CV models
-
----
-
-### 🏆 Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=positivefunctionIN&theme=radical&no-frame=true&row=1&column=7)
-
----
-
-### 🐍 Contribution Graph
-![snake gif](https://raw.githubusercontent.com/positivefunctionIN/positivefunctionIN/output/github-contribution-grid-snake.svg)
 
 ---
 
